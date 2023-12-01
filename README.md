@@ -3,5 +3,5 @@ This archive is about training with these programming languages by doing simple 
 Esse arquivo foi criado para treinamento nas linguagens de programação fazendo pequenos projetos.<br>
 <hr>
 <ul>
-  <li>Weather App 🔨</li>
+  <li>Weather App 🆗</li>
 </ul>
